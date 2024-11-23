@@ -7,6 +7,6 @@ Mark as Done: Mark tasks as completed, changing their background color.
 Clear Completed Tasks: Remove all tasks marked as done.
 Dynamic Task Numbering: Tasks are automatically renumbered after any addition or removal.
 Custom Styling: Includes custom colors and fonts for better visuals.
-Technologies Used
-Java
-Swing Library for the GUI
+Technologies Used:
+1)Java
+2)Swing Library for the GUI
